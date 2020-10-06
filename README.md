@@ -1,3 +1,7 @@
-# Demo
+# Welcome
 
-Description text.
+Main welcome message.
+
+## About
+
+A bit about me
