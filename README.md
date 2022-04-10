@@ -1,5 +1,5 @@
-# Hi there 👋, Alvan Chance
-## Design and Development
+## Hi there 👋, Alvan Chance
+### Design and Development
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvanchance)](https://github.com/anuraghazra/github-readme-stats)
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
