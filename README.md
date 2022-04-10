@@ -16,6 +16,10 @@ I'm Alvan from the Caribbean currently residing in the United Kingdom. A certifi
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alvanchance)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/alvanchance)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.alvanchance.com)
 
+## Examples of Work
+
+Examples to be added.
+
 ## About
 
 A bit about me.
