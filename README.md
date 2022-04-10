@@ -1,10 +1,7 @@
-# Welcome
-
+# Hi there 👋, Alvan Chance
+## Design and Development
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvanchance)](https://github.com/anuraghazra/github-readme-stats)
-
-### Hi there 👋, Alvan Chance
-#### Design and Development
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
 I'm Alvan from the Caribbean currently residing in the United Kingdom. A certified web designer, I really enjoy learning new languages and frameworks like Bootstrap and NodeJS. I also enjoy ui, ux and design in general.
 
