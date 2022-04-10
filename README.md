@@ -10,9 +10,8 @@ I'm Alvan from the Caribbean currently residing in the United Kingdom. A certifi
 * HTML / CSS / JS / BOOTSTRAP
 
 - 🔭 I’m currently working on this page, and becoming an AWS Cloud Practitioner 
-- 🌱 I’m currently learning Improving  knowledge on AWS and cloud prior to undertaking my cloud certifications. 
-- 👯 I’m looking to collaborate on Anyone interested in cloud technologies. 
-
+- 🌱 I’m currently learning Improving knowledge on AWS and Cloud Architecture prior to undertaking my cloud certifications. 
+- 👯 I’m looking to collaborate on anyone interested in cloud technologies. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alvanchance)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/alvanchance)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.alvanchance.com)
 
