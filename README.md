@@ -24,7 +24,11 @@ Examples to be added.
 A bit about me.
 
 ## Services
-A page depicting services offered.
+
+Graphic design
+Photo and Video editing
+UI/UK Design
+Web Ddesign
 
 ## Updates
 Repository Cloned over to cPanel of AlvanChance.com
