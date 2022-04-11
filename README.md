@@ -36,6 +36,6 @@ UI/UK Design
 Web Ddesign
 
 ## Updates
-Repository Cloned over to cPanel of AlvanChance.com
+Repository Cloned over to cPanel of https://www.alvanchance.com
 
 ![Profile views](https://gpvc.arturio.dev/alvanchance)
