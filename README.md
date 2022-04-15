@@ -5,7 +5,7 @@
 
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
-I'm Alvan from the Caribbean currently residing in the United Kingdom. A certified web designer, I really enjoy learning new languages and frameworks like Bootstrap and NodeJS. I also enjoy ui, ux and design in general.
+I'm Alvan from the Caribbean currently residing in the United Kingdom. A web designer, I really enjoy learning new languages and frameworks like Bootstrap and NodeJS. I also enjoy ui, ux and design in general.
 
 ## Skills and Development
 
