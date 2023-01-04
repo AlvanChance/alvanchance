@@ -32,10 +32,10 @@ A bit about me.
 
 ## Services
 
-Graphic design
-Photo and Video editing
-UI/UK Design
-Web Ddesign
+Graphic design<br />
+Photo and Video editing<br />
+UI/UK Design<br />
+Web Design
 
 ## Updates
 Repository Cloned over to cPanel of https://www.alvanchance.com
