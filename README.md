@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvanchance)](https://github.com/anuraghazra/github-readme-stats)
 
-![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Alvan, from the Caribbean currently residing in the United Kingdom. A web designer/developer, I really enjoy learning new languages and frameworks like Bootstrap and NodeJS. I also enjoy ui, ux and design in general. However, i've recently discovered and delving deeper into Cloud, namely AWS and looking forward to improving my portfolio to portray my abilities.
 
