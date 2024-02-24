@@ -14,7 +14,7 @@ I'm Alvan, from the Caribbean currently residing in the United Kingdom. A web de
 * HTML / CSS / PHP / JS / BOOTSTRAP / AWS
 
 - 🔭 I’m currently working on I’m currently working on this page, and becoming an AWS Cloud Practitioner. 
-- 🌱 I’m currently learning I’m currently learning Improving knowledge on AWS and Cloud Architecture prior to undertaking my cloud certifications. 
+- 🌱 I’m currently learning and Improving my knowledge on AWS and Cloud Architecture prior to undertaking my cloud certifications. 
 - 👯 I’m looking to collaborate on I’m looking to collaborate on anyone interested in cloud technologies. 
 - 🤔 I’m looking for help with Guidance on improving knowledge to progress further within the industry. 
 - 💬 Ask me about Any and all things related to technology. 
