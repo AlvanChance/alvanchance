@@ -36,6 +36,7 @@ Graphic Design<br />
 Photo and Video editing<br />
 UI/UK Design<br />
 Web Design / Development
+Aviation / Drone Pilot
 
 ## Updates
 Repository Cloned over to cPanel of https://www.alvanchance.com
