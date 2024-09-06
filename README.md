@@ -7,11 +7,11 @@
 
 <!-- ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-I'm Alvan, from the Caribbean currently residing in the United Kingdom. A web designer/developer, I really enjoy learning new languages and frameworks like Bootstrap and NodeJS. I also enjoy ui, ux and design in general. However, i've recently discovered and delving deeper into Cloud, namely AWS and looking forward to improving my portfolio to portray my abilities.
+I'm Alvan, from the Caribbean currently residing in the United Kingdom. A web designer/developer, I really enjoy learning new languages and frameworks like Bootstrap and NodeJS. I also enjoy UI/UX and design in general. However, i've recently discovered and delving deeper into Cloud, namely AWS with a end view of stepping into the Cyber Security Industry and looking forward to improving my portfolio to portray my abilities.
 
 ## Skills and Development
 
-* HTML / CSS / PHP / JS / BOOTSTRAP / AWS
+* HTML / CSS / PHP / JS / BOOTSTRAP / AWS / Linux
 
 - 🔭 I’m currently working on I’m currently working on this page, and becoming an AWS Cloud Practitioner. 
 - 🌱 I’m currently learning and Improving my knowledge on AWS and Cloud Architecture prior to undertaking my cloud certifications. 
